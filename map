@@ -1,0 +1,6 @@
+Map File
+
+This is where you put all the names of the files
+and how they relate to each other.
+E.g. .h header files that must be in certain .c files
+etc...
